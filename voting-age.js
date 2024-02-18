@@ -2,7 +2,7 @@
 // Returns true if the age is 18 years or older. Otherwise, returns false.
 function checkVotingAge(age) {
   // TODO: Implement this function.
-  if (age >= 18) { //if age is greter than or = 18, return true
+  if (age >= 18) { //if age is greater than or = 18, return true
     return `true`;
       
   } else {  // else, return false cannot vote
